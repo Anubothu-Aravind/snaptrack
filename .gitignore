@@ -1,0 +1,40 @@
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+.idea/
+*.iml
+.metadata
+
+# VS Code
+.vscode/
+
+# Flutter generated
+ios/Flutter/.last_build_id
+ios/Flutter/Generated.xcconfig
+macos/Flutter/ephemeral/
+*.xcworkspace/
+*.xcuserstate
+
+# Python virtual environments
+python_backend/car/
+python_backend/__pycache__/
+python_backend/*.pyc
+python_backend/*.pyo
+python_backend/*.pyd
+python_backend/env/
+python_backend/venv/
+python_backend/.env/
+python_backend/.venv/
+python_backend/Scripts/
+python_backend/Include/
+python_backend/Lib/
+python_backend/share/
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db

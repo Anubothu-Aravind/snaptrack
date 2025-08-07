@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+opencv-python
+mediapipe
+numpy
+pydantic
+python-multipart
+aiofiles
